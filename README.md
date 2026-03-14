@@ -21,8 +21,17 @@ Freelance Data Science Trainer at **Liora** (ex-DataScientest), teaching ML, NLP
 Multiple linear regression on 5,000 students to predict exam scores — EDA, model selection (AIC/BIC, nested F-tests), diagnostics, and out-of-sample evaluation.  
 `R` `Quarto` `Linear Models` `Statistical Inference`
 
-### 🐍 Python project *(coming soon)*
-`Python` `Machine Learning` `scikit-learn`
+### 🚲 [Bike Sharing Demand Prediction](https://github.com/emmazdata/bike-sharing-regression)
+Predicting hourly bike rentals from weather and temporal features on 1,817 observations — stepwise AIC selection, quadratic terms, train/test evaluation (R² ≈ 0.75).  
+`R` `Linear Models` `stepAIC` `Predictive Modelling`
+
+### 📈 [Portfolio Optimization — Markowitz](https://github.com/emmazdata/portfolio-optimization)
+Mean-variance framework on 4 equity indices (S&P 500, NASDAQ, Russell 2000, MSCI World) — tangency portfolio derivation, Sharpe ratio maximisation (SR = 0.94).  
+`Python` `NumPy` `yfinance` `Quantitative Finance`
+
+### 🎲 [Monte Carlo Quantile Estimation](https://github.com/emmazdata/monte-carlo-quantile-estimation)
+3-part project on simulation and quantile estimation for a negative weighted mixture — inverse CDF, accept-reject, stratified sampling, importance sampling, control variate.  
+`R` `Monte Carlo` `Statistical Computing` `Variance Reduction`
 
 ---
 
@@ -35,3 +44,4 @@ Multiple linear regression on 5,000 students to predict exam scores — EDA, mod
 ---
 
 *Always learning. Always building.*
+
